@@ -1,2 +1,2 @@
-# CinemaDbFirst
+# .NetCoreDbFirst
 .Net Core ile DbSet oluşturma. Küçük çaplı cinema uygulaması
