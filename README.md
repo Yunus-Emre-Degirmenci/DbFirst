@@ -1,2 +1,2 @@
-# CinemaDbContext
-.Net Core ile DbContext ve DbSet oluşturma. Küçük çaplı cinema uygulaması
+# CinemaDbFirst
+.Net Core ile DbSet oluşturma. Küçük çaplı cinema uygulaması
